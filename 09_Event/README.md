@@ -1,0 +1,1 @@
+1. child events: When we need to update the state of the parent component from its child, we can create an event handler (updateState) in the parent component and pass it as a prop (updateStateProp) to the child component where we can just call it.
