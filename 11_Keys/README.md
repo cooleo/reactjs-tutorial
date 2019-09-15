@@ -1,0 +1,2 @@
+-React keys are useful when working with dynamically created components or when your lists are altered by the users. Setting the key value will keep your components uniquely identified after the change.
+-If we add or remove some elements in the future or change the order of the dynamically created elements, React will use the key values to keep track of each element.
